@@ -1,7 +1,8 @@
 # bloxdNight
 
 This is the code for night in Bloxd.io!
-
+Copy all the following in world code!
+More info at https://discord.com/channels/804347688946237472/1341451454048899144/threads/1376228922022301736
 
 ```
   let spawnMaxHeight = 300
